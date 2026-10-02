@@ -10,6 +10,7 @@
 ### 1. Context & Business Problem
 During peak transaction events, merchant checkouts experience network drops, gateway timeouts, and delayed webhook notifications. Consequently, ledger mismatches occur between internal transaction logs and external merchant settlement records. Manual reconciliation creates operational overhead and delays merchant payouts by up to 48 hours.
 
+
 ### 2. Objectives & Key Results (OKRs)
 - **Objective**: Automate daily transaction settlement and cross-system reconciliation.
 - **Key Metrics (KPIs)**:
